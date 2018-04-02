@@ -29,23 +29,23 @@ When signing up, email is required and must be unique or you can login through F
 * JQuery
 * Bootstrap
 * Node-Modules:
-	* Express 4.13.3
-	* Express Sessions 1.13.0
-	* EJS 2.3.4
-	* Express EJS Layouts 2.0.0
-	* AWS-SDK 2.2.32
-	* Bcrypt 0.0.3
-	* Body-Parser 1.14.2
-	* Connect-Flash 0.1.1
-	* Cookie-Parser 1.4.1
-	* Google API 2.1.7
-	* Method-Override 2.3.5
-	* Mongoose 4.3.6
-	* Morgan 1.6.1
-	* Passport 0.3.2
-	* Passport-Facebook 0.3.2
-	* Passport-Local 1.0.0
-	* Path 0.12.7
+	* Express
+	* Express Sessions
+	* EJS 
+	* Express EJS Layouts
+	* AWS-SDK 
+	* Bcrypt 
+	* Body-Parser 
+	* Connect-Flash 
+	* Cookie-Parser 
+	* Google API 
+	* Method-Override
+	* Mongoose 
+	* Morgan 
+	* Passport 
+	* Passport-Facebook 
+	* Passport-Local 
+	* Path 
 * Facebook Comment Plugin
 * Facebook Like / Share Plugin
 
